@@ -1,0 +1,11 @@
+git status
+		Verifica se está tudo correto
+
+git add . ou git add -A
+		Adiciona todos os arquivos
+
+git commit -m "Comandos básicos para usar o Git"
+		Dentro do "" pode colocar comentário do que está sendo enviado
+
+git push origin main
+		Enviar todo os commits para a nuvem, para a pasta do GitHub.
